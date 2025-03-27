@@ -14,6 +14,6 @@ public class Flight<T> {
         return flightNumber;
     }
     public void displayFlight(){
-        System.out.println("Flight Number: "+ flightNumber+ " -> Destination: "+ destination+ " -> Departure Time: " +departureTime);
+        System.out.println("Flight Number: "+ flightNumber+ " -> Destination: "+ destination+ " -> Departure Time: " + departureTime);
     }
 }
