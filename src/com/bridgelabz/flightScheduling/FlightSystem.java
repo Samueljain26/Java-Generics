@@ -18,4 +18,14 @@ public class FlightSystem {
         manager.displayAllFlights();
     }
 }
+/*Booking ID: 5001
+Passenger: John Doe
+Flight Number: 101 -> From: New York -> TO: London
+----------------
+Booking ID: B102
+Passenger: Jane Smith
+Flight Number: AA202 -> From: Los Angeles -> TO: Tokyo
 
+--- Flight Management ---
+Flight Number: 101 -> From: New York -> TO: London
+ */
