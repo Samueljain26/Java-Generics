@@ -2,7 +2,7 @@ package com.bridgelabz.flightScheduling;
 
 import java.util.*;
 
-class FlightManager<T> {
+class FlightManager<T extends Number> {
     private List<Flight<T>> flights = new ArrayList<>();
 
     public void addFlight(Flight<T> flight) {
@@ -15,3 +15,4 @@ class FlightManager<T> {
         }
     }
 }
+
