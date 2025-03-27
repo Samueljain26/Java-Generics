@@ -23,3 +23,9 @@ public class MealPlanGenerator {
     }
 }
 
+/*Generated Personalized Meal Plan:
+Vegetarian Meal: Grilled Paneer with Salad
+Vegan Meal: Tofu Stir-fry
+Keto Meal: Grilled Chicken with Avocado
+High Protein Meal: Egg Whites with Oats
+ */
